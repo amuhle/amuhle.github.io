@@ -4,17 +4,17 @@
 
 Several years have been happened since I have the idea to start a blog, but my priorities have been others. 
 
-What have I done in these years? 
+=== What have I done in these years? 
 
-Well, a lot of things, I: 
+Well, a lot of things: 
 
-.Studied about so many things, but the most remarkables topics: 
+==== Studied about so many things, but the most remarkables topics: 
  * Software Engineering 
  * English
  * Personal Trainer [hobby]
  * Professional Cook (Still studying) [hobby]
 
-.Created a Software Development Company 
+==== Created a Software Development Company 
 * In 2010, with a friend of the University, we founded "VAIRIX Software Development". The main goal was have our own business and learn in the process. 
 * Given that I like the technical side more than the business one, I was the CTO of the company, learning, applying and teaching everything related to software development, programming and methodology. 
 * Learned about the complexity of creating a company, how to fix issues, make important decisions, how to deal with people (employees and customers), the importance of being flexible but at the same time keep aligned to the company vision and strategy. 
@@ -22,37 +22,42 @@ Well, a lot of things, I:
 * Probably, I was involved in more than 30 different projects, sometimes as a developer, sometimes as a Technical Leader and sometimes as a Scrum Master.
 * This was an incredible experience that helped me to grow in a lot of aspects (personally and professionally).
 
-.Practiced Sports (Soccer, tennis, functional training) 
+==== Practiced Sports (Soccer, tennis, functional training) 
 * I love sports since I have memory. I used to play soccer where I used to live (Pan de Azucar, Maldonado, Uruguay). When I was 20 I injured my lateral ligament of my left knee joint. After the surgery I was fine, but it wasn't the same. I kept playing but I needed another surgery a couple of years ago. Now, I do functional training and I really enjoy it. 
 * This was the reason that I studied to become a personal trainer. I wanted to know how to train, and do it well. 
 * Sports are like the air to me, I need them so I can feel alive and be strong, physically and mentally, to do anything else I want to do. 
-* Mixing this with my technology background I'm creating a product called pro-fitness, which I'm going to tell you later. 
+* Mixing this with my technology background I'm creating a product called pro-fitness, which I'm going to tell you later in this blog. 
 
-.Cooked
+==== Cooked
 * 2015 was the Year, I started cooking food that I never thought I was going to. 
 * I started experimenting with some basic pies, then some pot meals, and then everything I wanted to: sushi, homemade pasta, bread, pizza, etc.
 * I started studying different tecnhiques in an online course, and this year I started a presential course to be a professional cook. I don't think I ever work as a cook, but is a really funny hobby so far. 
 
-.Travelled
+==== Travelled
 * Sometimes thanks to work, sometimes to enjoy life I could travel a little and know some cities around the world.
 * Cities in South America (Outside of Uruguay, where I live): Buenos Aires (Argentina), Rio de Janeiro (Brasil), Sao Pablo (Brasil), Florianopolis (Brasil), Caracas (Venezuela), Cartegena de Indias (Colombia)
 * Cities in North America: Miami, San Francisco, Chicago (USA)
 * Cities in Europe: Barcelona (Spain), Rome (Italy), Florence (Italy), Venice (Italy), Budapest (Hungary), Vienna (Austria)
 * This is something I wish keep doing. It's amazing things you can learn and enjoy travelling. 
 
-.Met People (Great people)
+==== Met People (Great people)
 * I read a post some time ago, about happiness, and it said that a study made during 75 years, by a psychiathrist from Harvard, revealed that the most important factor to be happy is not money, is not fame, but relationships. Good relationships keep us happier and healthier. 
+* My family has always been my support and my guide. Anything I want to do, they support me. Always happy, everyone with their particularity but 
+* My friends are great people. People with whom you enjoy being with, learn from them and trust whatever you need.
 * I feel very lucky about the people that life put in front of me. Not only about my family, my friends, colleagues but all the people that I've met in my journey of life.
 * I think everyone has good and not so good things, but you can always learn something from the other, it's up to you see what the other can teach you. 
 
-And had fun, in all of the above. 
+===== And.. had fun, in all of the above. 
 
-Until now, I was learning and applying things without sharing them, but now is time to do it. 
+
+==== So, What's next? 
+
+Until now, I was learning and applying things without sharing them, but now is time to share it.
 
 So, I hope you can enjoy, learn, discuss or advice about anything I write.
 
-As one of the pictures of my appartment says: 
+I am going to try live as one of the pictures of my appartment says: 
 
-* "Laugh when you can, apologize when you should and let go of what you can't change. Kiss slowly, forgive quickly, play hard, take chances, give everything and make no regrets. Life is too short to be anything but HAPPY"
+*_"Laugh when you can, apologize when you should and let go of what you can't change. Kiss slowly, forgive quickly, play hard, take chances, give everything and make no regrets. Life is too short to be anything but HAPPY"_*
 
 ByE!
