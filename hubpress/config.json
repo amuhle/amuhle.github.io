@@ -4,7 +4,21 @@
     "repositoryName": "amuhle.github.io",
     "branch": "master"
   },
+  "site": {
+    "title": "Alvaro's Blog",
+    "description": "",
+    "postsPerPage": "5",
+    "disqus": "alvaro_muhlethaler"
+  },
+  "socialnetwork": {
+    "email": "alvaro.muhlethaler@gmail.com",
+    "twitter": "@amuhleths",
+    "linkedin": "https://www.linkedin.com/in/alvaromuhlethaler",
+    "facebook": "https://www.facebook.com/varox",
+    "instagram": "@amuhleths",
+    "github": "@amuhle"
+  },
   "theme": {
-    "name": "Casper"
+    "name": "casper"
   }
 }
