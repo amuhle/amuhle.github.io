@@ -1,5 +1,6 @@
-= Very first Post of my own Blog
-:hp-tags: Blogging, Software Development, Ruby, Rails, Reactjs, Design Patterns, Proofs of Concept, Sports, Cook
+= What have I done all these years?
+
+:hp-tags: Blogging, Life, Software Development, Sports, Cook,
 
 Several years have been happened since I have the idea to start a blog, but my priorities have been others. 
 
@@ -37,16 +38,21 @@ Well, a lot of things, I:
 * Cities in South America (Outside of Uruguay, where I live): Buenos Aires (Argentina), Rio de Janeiro (Brasil), Sao Pablo (Brasil), Florianopolis (Brasil), Caracas (Venezuela), Cartegena de Indias (Colombia)
 * Cities in North America: Miami, San Francisco, Chicago (USA)
 * Cities in Europe: Barcelona (Spain), Rome (Italy), Florence (Italy), Venice (Italy), Budapest (Hungary), Vienna (Austria)
-* This is something I wish keep doing. Is amazing the things you can learn and enjoy travelling. 
+* This is something I wish keep doing. It's amazing things you can learn and enjoy travelling. 
 
 .Met People (Great people)
-* 
-
+* I read a post some time ago, about happiness, and it said that a study made during 75 years, by a psychiathrist from Harvard, revealed that the most important factor to be happy is not money, is not fame, but relationships. Good relationships keep us happier and healthier. 
+* I feel very lucky about the people that life put in front of me. Not only about my family, my friends, colleagues but all the people that I've met in my journey of life.
+* I think everyone has good and not so good things, but you can always learn something from the other, it's up to you see what the other can teach you. 
 
 And had fun, in all of the above. 
 
-Until now, I was learning and applying things without sharing them, but now is the time to do it. 
+Until now, I was learning and applying things without sharing them, but now is time to do it. 
 
 So, I hope you can enjoy, learn, discuss, argue or advice about everything I write.
+
+As one of the pictures of my appartment says: 
+
+* "Laugh when you can, apologize when you should and let go of what you can't change. Kiss slowly, forgive quickly, play hard, take chances, give everything and make no regrets. Life is too short to be anything but HAPPY"
 
 ByE!
