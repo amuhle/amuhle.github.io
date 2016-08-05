@@ -17,18 +17,25 @@ Well, a lot of things, I:
 * In 2010, with a friend of the University, we founded "VAIRIX Software Development". The main goal was have our own business and learn in the process. 
 * Given that I like the technical side more than the business one, I was the CTO of the company, learning, applying and teaching everything related to software development, programming and methodology. 
 * Learned about the complexity of creating a company, how to fix issues, make important decisions, how to deal with people (employees and customers), the importance of being flexible but at the same time keep aligned to the company vision and strategy. 
+* Techonologies used in the process: Ruby, Ruby on Rails, AngularJs, HTML5, JQuery, CSS3, NodeJs, ReactJs, and a inmense variety of gems, tools, products, depending on the project and client needs. 
+* Probably, I was involved in more than 30 different projects, sometimes as a developer, sometimes as a Technical Leader and sometimes as a Scrum Master.
 * This was an incredible experience that helped me to grow in a lot of aspects (personally and professionally).
 
 .Practiced Sports (Soccer, tennis, functional training) 
 * I love sports since I have memory. I used to play soccer where I used to live (Pan de Azucar, Maldonado, Uruguay). When I was 20 I injured my lateral ligament of my left knee joint. After the surgery I was fine, but it wasn't the same. I kept playing but I needed another surgery a couple of years ago. Now, I do functional training and I really enjoy it. 
 * This was the reason that I studied to become a personal trainer. I wanted to know how to train, and do it well. 
 * Sports are like the air to me, I need them so I can feel alive and be strong, physically and mentally, to do anything else I want to do. 
+* Mixing this with my technology background I'm creating a product called pro-fitness, which I'm going to tell you later. 
 
 .Cooked
 * 
 
 .Travelled
-* 
+* Sometimes thanks to work, sometimes to enjoy life I could travel a little and know some cities around the world.
+* Cities in South America (Outside of Uruguay, where I live): Buenos Aires (Argentina), Rio de Janeiro (Brasil), Sao Pablo (Brasil), Florianopolis (Brasil), Caracas (Venezuela), Cartegena de Indias (Colombia)
+* Cities in North America: Miami, San Francisco, Chicago (USA)
+* Cities in Europe: Barcelona (Spain), Rome (Italy), Florence (Italy), Venice (Italy), Budapest (Hungary), Vienna (Austria)
+* This is something that I wish to keep doing 
 
 .Met People (Great people)
 * 
@@ -36,4 +43,8 @@ Well, a lot of things, I:
 
 And had fun, in all of the above. 
 
-Until now, 
+Until now, I was learning and applying things without sharing them, but now is the time to do it. 
+
+So, I hope you can enjoy, learn, discuss, argue or advice about everything I write.
+
+ByE!
