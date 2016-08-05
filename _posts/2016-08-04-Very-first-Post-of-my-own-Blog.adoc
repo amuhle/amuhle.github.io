@@ -3,17 +3,19 @@
 
 Several years have been happened since I have the idea to start a blog, but my priorities have been others. 
 
-What I have done? 
+What have I done in these years? 
 
 Well, a lot of things:  
 
-.Studied about so many things
+.Studied about so many things, but the most remarkables topics: 
  * Software Engineering 
- * Personal Trainer
- * Professional Cook (Still studying)
+ * Personal Trainer [hobby]
+ * Professional Cook (Still studying) [hobby]
+ * English
 
 .Created a Software Development Company 
-* In 2010 with 
+* In 2010, with a friend of the University, we founded "VAIRIX Software Development". The main goal was have our own business and learn in the process. 
+* Given that I like the technical side more than the business one, I was the CTO of the company, learning, applying and teaching everything related to software development, programming and methodology. 
 
 .Practicing Sports (Soccer, tennis, functional training) 
 * 
