@@ -1,0 +1,33 @@
+= Very first Post of my own Blog
+:hp-tags: Blogging, Software Development, Ruby, Rails, Reactjs, Design Patterns, Proofs of Concept, Sports, Cook
+
+Several years have been happened since I have the idea to start a blog, but my priorities have been others. 
+
+What I have done? 
+
+Well, a lot of things:  
+
+.Studied about so many things
+ * Software Engineering 
+ * Personal Trainer
+ * Professional Cook (Still studying)
+
+.Created a Software Development Company 
+* In 2010 with 
+
+.Practicing Sports (Soccer, tennis, functional training) 
+* 
+
+.Cooking
+* 
+
+.Travelling
+* 
+
+.Met People (Great people)
+* 
+
+
+And had fun, in all of the above. 
+
+Until now, 
